@@ -4,8 +4,7 @@ Cypress Calculate Holiday Entitlement Automation Test Framework with BDD (Cucumb
 
 ## Installation
 
-Clone the directory
-Install cypress in the project directory
+Clone the directory. Install cypress in the project directory
 
 ```bash
 npm install cypress --save-dev
